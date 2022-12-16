@@ -9,4 +9,4 @@ elif 5 < weekday < 8:
     print("The day is weekend")
 else:
     print("Incorrect input!")
-№ проверка связи
+# проверка связи
