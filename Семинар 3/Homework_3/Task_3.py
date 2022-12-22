@@ -3,17 +3,15 @@
 # Без использования встроенной функции преобразования, без строк.
 
 def decimal_to_binary(num):
-
-    binar = []
     
+    bin_num = 0
+    count = 0
+
     while num:
         binar_digit = num % 2
-        binar.append(binar_digit)
+        bin_num += binar_digit * (10 ** count)
         num //= 2
-
-    bin_num = 0
-    for i in range(len(binar)):
-        bin_num += binar[i] * (10 ** i)   
+        count += 1  
 
     return bin_num
 
