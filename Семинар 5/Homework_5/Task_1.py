@@ -16,8 +16,8 @@ def create_random_string(num):
 def delete_word_from_string(string, word):
     array = string.split()
     corrected_array = [i for i in array if i != word]
-    new_string = ' '.join(corrected_array)
-    return new_string
+    return ' '.join(corrected_array)
+    
 
 n = int(input("Input number of words: "))
 
