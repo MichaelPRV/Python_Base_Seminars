@@ -21,7 +21,10 @@ def delete_word_from_string(string, word):
 
 n = int(input("Input number of words: "))
 
-new_str = create_random_string(n)
-print(new_str)
-final_str = delete_word_from_string(new_str, 'abv')
-print(final_str)
+if n > 0:
+    new_str = create_random_string(n)
+    print(new_str)
+    final_str = delete_word_from_string(new_str, 'abv')
+    print(final_str)
+else:
+    print("The data is incorrect")
