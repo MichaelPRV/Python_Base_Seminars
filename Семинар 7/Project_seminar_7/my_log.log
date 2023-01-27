@@ -1,0 +1,39 @@
+26-01-2023 10:01:14 - main - INFO - <module> - Start program
+26-01-2023 10:02:05 - main - INFO - <module> - Start program
+26-01-2023 10:02:12 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:02:22 - user_interface - INFO - calculator_menu - Subtraction: 5.0 - 36.0 = -31.0
+26-01-2023 10:02:43 - exceptions - WARNING - input_sign_check - Incorrect sign input
+26-01-2023 10:03:44 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:03:50 - exceptions - WARNING - input_sign_check - Incorrect sign input
+26-01-2023 10:03:55 - main - INFO - <module> - Start program
+26-01-2023 10:03:57 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:06:01 - user_interface - INFO - calculator_menu - Exit to main menu
+
+26-01-2023 10:09:11 - main - INFO - <module> - Start program
+26-01-2023 10:09:14 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:09:20 - user_interface - INFO - calculator_menu - Exit to main menu
+
+26-01-2023 10:10:04 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:11:31 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:11:38 - exceptions - WARNING - input_num_check - Incorrect number input
+26-01-2023 10:11:56 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:12:05 - exceptions - WARNING - input_num_check - Incorrect number input
+26-01-2023 10:18:27 - main - INFO - <module> - Start program
+26-01-2023 10:18:30 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:18:40 - exceptions - WARNING - input_num_check - Incorrect number input
+26-01-2023 10:20:10 - main - INFO - <module> - Start program
+26-01-2023 10:20:13 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:26:25 - main - INFO - <module> - Start program
+26-01-2023 10:26:27 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:26:28 - exceptions - WARNING - input_sign_check - Incorrect sign input
+26-01-2023 10:26:35 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:26:40 - exceptions - WARNING - input_num_check - Incorrect number input
+26-01-2023 10:33:27 - main - INFO - <module> - Start program
+26-01-2023 10:33:30 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:33:35 - exceptions - WARNING - input_num_check - Incorrect number input
+26-01-2023 10:36:01 - main - INFO - <module> - Start program
+26-01-2023 10:36:04 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:36:10 - exceptions - WARNING - input_num_check - Incorrect number input
+26-01-2023 10:45:32 - main - INFO - <module> - Start program
+26-01-2023 10:45:35 - user_interface - INFO - calculator_menu - Enter calculator menu
+26-01-2023 10:45:43 - user_interface - INFO - calculator_menu - Summation: 2.5 + 5.0 = 7.5
