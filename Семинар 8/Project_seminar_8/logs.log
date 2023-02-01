@@ -1,0 +1,166 @@
+30-01-2023 13:22:01 - main - INFO - <module> - Information system launching
+30-01-2023 13:22:01 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:22:01 - processing - WARNING - read_phonebook - Phonebook file is not found
+30-01-2023 13:22:12 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:22:12 - processing - WARNING - read_phonebook - Phonebook file is not found
+30-01-2023 13:31:45 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:34:19 - main - INFO - <module> - Information system launching
+30-01-2023 13:34:19 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:34:22 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:36:35 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:36:43 - main - INFO - <module> - Information system launching
+30-01-2023 13:36:43 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:36:45 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:38:07 - main - INFO - <module> - Information system launching
+30-01-2023 13:38:07 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:38:10 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:39:00 - main - INFO - <module> - Information system launching
+30-01-2023 13:39:00 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:39:03 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:39:48 - main - INFO - <module> - Information system launching
+30-01-2023 13:39:48 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:39:51 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:40:06 - main - INFO - <module> - Information system launching
+30-01-2023 13:40:06 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:40:08 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:40:23 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:41:46 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:41:46 - data_check - INFO - find_existing_contact - Search for Бунарев in data base
+30-01-2023 13:41:46 - data_check - INFO - find_existing_contact - Search result: ['8 Денис Бунарев 79164547895 наблюдатель']
+30-01-2023 13:41:46 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:42:18 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:42:18 - data_check - INFO - find_existing_contact - Search for 8 in data base
+30-01-2023 13:42:18 - data_check - INFO - find_existing_contact - Search result: ['8 Денис Бунарев 79164547895 наблюдатель']
+30-01-2023 13:42:18 - user_interface - INFO - contact_edit_menu - Start contact edit menu
+30-01-2023 13:47:24 - main - INFO - <module> - Information system launching
+30-01-2023 13:47:24 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:47:31 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:47:31 - data_check - INFO - find_existing_contact - Search for 8 in data base
+30-01-2023 13:47:31 - data_check - INFO - find_existing_contact - Search result: ['8 Денис Бунарев 79164547895 наблюдатель']
+30-01-2023 13:47:31 - user_interface - INFO - contact_edit_menu - Start contact edit menu
+30-01-2023 13:47:46 - processing - INFO - add_new_phone_number - New phone number added: ('phone number', '79164547997')
+30-01-2023 13:51:10 - main - INFO - <module> - Information system launching
+30-01-2023 13:51:10 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:51:17 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:51:17 - data_check - INFO - find_existing_contact - Search for 8 in data base
+30-01-2023 13:51:17 - data_check - INFO - find_existing_contact - Search result: ['8 Денис Бунарев 79164547895 наблюдатель']
+30-01-2023 13:51:17 - user_interface - INFO - contact_edit_menu - Start contact edit menu
+30-01-2023 13:51:33 - processing - INFO - edit_phone_number - Data changes: ('phone number', '79164547997')
+30-01-2023 13:51:33 - data_check - INFO - find_existing_contact - Search for 8 in data base
+30-01-2023 13:51:33 - data_check - INFO - find_existing_contact - Search result: ['8 Денис Бунарев 79164547895 наблюдатель']
+30-01-2023 13:51:33 - processing - INFO - edit_phone_number - Current value: 79164547895
+30-01-2023 13:51:33 - processing - INFO - edit_phone_number - New value: 79164547997
+30-01-2023 13:51:33 - processing - INFO - edit_phone_number - Information is edited
+30-01-2023 13:51:33 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:51:37 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:51:57 - user_interface - INFO - create_new_contact_menu - Start "create new contact" menu
+30-01-2023 13:52:50 - user_interface - INFO - create_new_contact_menu - Stop edit menu
+30-01-2023 13:52:50 - processing - INFO - add_new_phone_number - New phone number added: {'id': '1', 'name': 'Мария', 'surname': 'Петрова', 'phone number': '79854565412', 'info': 'стоматология'}
+30-01-2023 13:53:57 - main - INFO - <module> - Information system launching
+30-01-2023 13:53:57 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:54:00 - user_interface - INFO - create_new_contact_menu - Start "create new contact" menu
+30-01-2023 13:56:03 - user_interface - INFO - create_new_contact_menu - Stop edit menu
+30-01-2023 13:56:03 - processing - INFO - add_new_phone_number - New phone number added: {'ID': '1', 'name': 'Маша', 'surname': 'Медведева', 'phone number': '79856544565', 'info': 'лес'}
+30-01-2023 13:56:03 - processing - WARNING - add_new_phone_number - New phone number added: dict_values([10, 'Маша', 'Медведева', '79856544565', 'лес'])
+30-01-2023 13:56:03 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:57:29 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:58:50 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 13:58:50 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 13:58:50 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 13:59:00 - processing - INFO - delete_phone_number - Id selected: 10
+30-01-2023 13:59:00 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 13:59:00 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 13:59:04 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:01:08 - main - INFO - <module> - Information system launching
+30-01-2023 14:01:08 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:01:13 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:01:27 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 14:01:27 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 14:01:27 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 14:01:29 - processing - INFO - delete_phone_number - Id selected: 10
+30-01-2023 14:01:29 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 14:01:29 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:05:39 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 14:05:39 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 14:05:39 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 14:05:41 - processing - INFO - delete_phone_number - Id selected: 10
+30-01-2023 14:05:41 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 14:05:41 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:05:56 - main - INFO - <module> - Information system launching
+30-01-2023 14:05:56 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:06:04 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 14:06:04 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 14:06:04 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 14:06:06 - processing - INFO - delete_phone_number - ID selected: 10
+30-01-2023 14:06:06 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 14:06:06 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:18:52 - main - INFO - <module> - Information system launching
+30-01-2023 14:18:52 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:18:56 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:19:09 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 14:19:09 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 14:19:09 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 14:19:11 - processing - INFO - delete_phone_number - ID selected: 10
+30-01-2023 14:19:11 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 14:19:11 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:24:55 - main - INFO - <module> - Information system launching
+30-01-2023 14:24:55 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:24:58 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:25:09 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 14:25:09 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 14:25:09 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 14:25:12 - processing - INFO - delete_phone_number - ID selected: 10
+30-01-2023 14:25:12 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 14:25:12 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:26:18 - processing - INFO - delete_phone_number - Phone number deletion: Мартынова
+30-01-2023 14:26:18 - data_check - INFO - find_existing_contact - Search for Мартынова in data base
+30-01-2023 14:26:18 - data_check - INFO - find_existing_contact - Search result: ['9 Нина Мартынова 79856544521 курсы']
+30-01-2023 14:26:21 - processing - INFO - delete_phone_number - ID selected: 9
+30-01-2023 14:26:21 - processing - WARNING - delete_phone_number - Inputted ID not exist: Мартынова
+30-01-2023 14:26:21 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:28:45 - main - INFO - <module> - Information system launching
+30-01-2023 14:28:45 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:28:50 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:32:27 - main - INFO - <module> - Information system launching
+30-01-2023 14:32:27 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:32:29 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:32:46 - processing - INFO - delete_phone_number - Phone number deletion: Медведева
+30-01-2023 14:32:46 - data_check - INFO - find_existing_contact - Search for Медведева in data base
+30-01-2023 14:32:46 - data_check - INFO - find_existing_contact - Search result: ['10 Маша Медведева 79856544565 лес']
+30-01-2023 14:32:48 - processing - INFO - delete_phone_number - ID selected: 10
+30-01-2023 14:32:48 - processing - WARNING - delete_phone_number - Inputted ID not exist: Медведева
+30-01-2023 14:32:48 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:32:58 - main - INFO - <module> - Information system launching
+30-01-2023 14:32:58 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:33:01 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:33:25 - processing - INFO - import_file - Import data base file: phonebook2
+30-01-2023 14:33:25 - processing - WARNING - import_file - File not found: phonebook2
+30-01-2023 14:33:25 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:33:50 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:34:03 - processing - INFO - import_file - Import data base file: phonebook2.csv
+30-01-2023 14:34:03 - processing - INFO - read_phonebook - Display phonebook from phonebook2.csv
+30-01-2023 14:34:12 - processing - INFO - read_phonebook - Display phonebook from phonebook2.csv
+30-01-2023 14:34:39 - processing - INFO - delete_phone_number - Phone number deletion: Бунарев
+30-01-2023 14:34:39 - data_check - INFO - find_existing_contact - Search for Бунарев in data base
+30-01-2023 14:34:39 - data_check - INFO - find_existing_contact - Search result: ['8 Денис Бунарев 79164547997 наблюдатель']
+30-01-2023 14:34:41 - processing - INFO - delete_phone_number - ID selected: 8
+30-01-2023 14:34:41 - processing - INFO - delete_phone_number - Phone number is deleted
+30-01-2023 14:34:41 - processing - INFO - read_phonebook - Display phonebook from phonebook2.csv
+30-01-2023 14:34:52 - processing - INFO - read_phonebook - Display phonebook from phonebook2.csv
+30-01-2023 14:35:03 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:35:23 - processing - INFO - export_file - Export phonebook_3.csv
+30-01-2023 14:36:16 - main - INFO - <module> - Information system launching
+30-01-2023 14:36:16 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:36:30 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:36:38 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:36:52 - processing - INFO - export_file - Export pb_3.csv
+30-01-2023 14:37:19 - main - INFO - <module> - Information system launching
+30-01-2023 14:37:19 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:37:22 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:37:29 - processing - INFO - export_file - Export pb_3.csv
+30-01-2023 14:37:29 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:38:01 - user_interface - INFO - import_export_menu - Start import/export menu
+30-01-2023 14:38:03 - user_interface - INFO - import_export_menu - Exit from import/export menu
+30-01-2023 14:38:03 - processing - INFO - read_phonebook - Display phonebook from phonebook.csv
+30-01-2023 14:38:06 - user_interface - INFO - user_menu - Stop program.
+
