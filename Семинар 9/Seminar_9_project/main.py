@@ -94,7 +94,7 @@ def location(update, _):
         "Местоположение %s: %f / %f", user.first_name, user_location.latitude, user_location.longitude)
     # Отвечаем на сообщение с местоположением
     update.message.reply_text(
-        'Все, я выезжаю!' 
+        'Все, я выезжаю! не забудь приодеться, скоро буду' 
         ' А пока расскажи мне что-нибудь о себе...'
     )
     # переходим к этапу `BIO`
@@ -120,7 +120,7 @@ def bio(update, _):
     # Пишем в журнал биографию или рассказ пользователя
     logger.info("Пользователь %s рассказал: %s", user.first_name, update.message.text)
     # Отвечаем на то что пользователь рассказал.
-    update.message.reply_text('Круто! не забудь приодеться, я скоро буду.')
+    update.message.reply_text('Да что ты говоришь... Ладно, как бот доработают еще о чем-нибудь поговорим =)')
     # Заканчиваем разговор.
     return ConversationHandler.END
 
